@@ -9,6 +9,7 @@ Thumbs.db
 data/
 outputs/
 spark_tmp/
+data_lake/
 airflow/mapbox_dashboard/data/*
 !airflow/mapbox_dashboard/data/
 !airflow/mapbox_dashboard/data/.gitkeep
